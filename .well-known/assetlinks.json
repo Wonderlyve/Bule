@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.komachat.app",
+      "sha256_cert_fingerprints": [
+        "A1:46:53:AA:77:67:01:5C:29:05:06:B1:80:17:49:F4:FA:66:ED:CE:99:7D:4E:0C:CA:61:3E:AA:36:C0:08:F3"
+      ]
+    }
+  }
+]
