@@ -1,0 +1,10 @@
+{
+  "app_name": "Bulebuy",
+  "chats": "Chats",
+  "market": "Market",
+  "create": "Create",
+  "cart": "Cart",
+  "profile": "Profile",
+  "search_chat": "Search conversations",
+  "empty_cart": "Your cart is empty"
+}
